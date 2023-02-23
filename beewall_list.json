@@ -1,0 +1,40 @@
+{
+  "wallpapers": [
+    {
+      "image": {
+        "name": "Snowy Mountain",
+        "url": "https://images.pexels.com/photos/1287145/pexels-photo-1287145.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-1287145.jpg&fm=jpg",
+        "url_origin": "https://www.pexels.com/photo/snowy-mountain-1287145/",
+        "size": "6.18 MB",
+        "width": 3648,
+        "height": 2432,
+        "aspect_ratio": "3:2"
+      },
+      "author": {
+        "name": "eberhard grossgasteiger",
+        "url": "https://www.pexels.com/@eberhardgross/"
+      },
+      "addition_date": "02/22/2023",
+      "origin": "Pexels",
+      "orientation": "vertical"
+    },
+    {
+      "image": {
+        "name": "A Foggy Forest",
+        "url": "https://images.pexels.com/photos/14730093/pexels-photo-14730093.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-14730093.jpg&fm=jpg",
+        "url_origin": "https://www.pexels.com/photo/a-foggy-forest-14730093/",
+        "size": "13.26 MB",
+        "width": 5472,
+        "height": 3648,
+        "aspect_ratio": "3:2"
+      },
+      "author": {
+        "name": "eberhard grossgasteiger",
+        "url": "https://www.pexels.com/@eberhardgross/"
+      },
+      "addition_date": "02/22/2023",
+      "origin": "Pexels",
+      "orientation": "horizontal"
+    }
+  ]
+}
